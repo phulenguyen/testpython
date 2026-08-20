@@ -2,5 +2,6 @@
   "editor.autoClosingBrackets": "never",
   "editor.autoClosingQuotes": "never",
   "editor.autoClosingDelete": "never",
-  "editor.autoClosingOvertype": "never"
+  "editor.autoClosingOvertype": "never",
+  "editor.autoIndent": "none"
 }
